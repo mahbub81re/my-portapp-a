@@ -1,8 +1,8 @@
 export default {
-    providers:[
-        {
-            domain:"https://normal-grouper-59.clerk.accounts.dev",
-            applicationID: "convex",
-        }
-    ]
+  providers: [
+    {
+      domain: "https://actual-glider-21.clerk.accounts.dev",
+      applicationID: "convex",
+    }
+  ]
 }
