@@ -8,7 +8,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Spinner } from "@/components/spinner";
 
-export function  Heading  ()  {
+export const Heading = () => {
   const { isAuthenticated, isLoading } = useConvexAuth();
 
   return (
